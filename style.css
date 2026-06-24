@@ -97,7 +97,7 @@ textarea{
 .msg{margin-top:10px;color:var(--muted);font-size:0.95rem}
 .notes{margin-top:8px;color:var(--muted);font-size:0.9rem}
 
-/* Loader */
+/* Loader changed */
 .loader{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px}
 .spinner{width:56px;height:56px;border-radius:50%;border:6px solid rgba(255,255,255,0.06);border-top-color:var(--accent-2);animation:spin 1s linear infinite;margin-bottom:10px}
 @keyframes spin{to{transform:rotate(360deg)}}

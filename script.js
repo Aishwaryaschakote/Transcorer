@@ -55,7 +55,7 @@ fileInput.addEventListener('change', e => {
   r.readAsText(f);
 });
 
-/* Sample */
+/* Sample which is also provided in sample.txt*/
 sampleBtn.addEventListener('click', () => {
   transcriptEl.value = `Hello everyone, my name is Aisha. I am 12 years old and I study in class 7 at Starlight School. I live with my family which includes my parents and one younger brother. I enjoy painting and reading books in my free time. A fun fact about me is that I bake cupcakes for my friends. My ambition is to become a doctor and help people. Thank you for listening.`;
   durationEl.value = 60;
